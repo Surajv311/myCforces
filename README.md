@@ -1,2 +1,4 @@
 # myCodeforces_codes
-cf codes 
+Codeforces Qs. practice/solved.
+
+
