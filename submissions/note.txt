@@ -1,8 +1,10 @@
 NOTE: 
 
+- `cd submissions/`;
+- `pip install -r requirements.txt`;
 - `main.py` & `retriever.py` code from: https://github.com/Mohd-3/CodeRetriever; 
 - Commands to run: `python3 run main.py`;
-- (Do `cd` in the dir);
+ 
 
 
 
