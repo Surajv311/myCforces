@@ -1,5 +1,5 @@
 # myCodeforces_codes
-Codeforces Qs. practice/solved.
+Codeforces/ Codechef/ Kickstart... ect, Qs. practice/solved.
 <br>
 
 Note: 
